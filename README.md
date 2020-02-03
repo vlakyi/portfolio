@@ -1,2 +1,1 @@
-# portfolio web page
-https://vlakyi.github.io/portfolio/
+# React portfolio web page
